@@ -59,4 +59,8 @@ Critérios de Aceitação:<br>
 - Validação de Dados: Implementação de validações básicas para assegurar a integridade dos dados.
 - Experiência do Usuário: A inclusão de mensagens de erro e confirmação visa melhorar a clareza e o feedback durante o processo de cadastro.<br>
 
-Essas user stories cobrem os principais aspectos do formulário de inscrição de cursos, desde o preenchimento dos dados até a confirmação de sucesso. Se necessário, podemos criar mais user stories para cobrir funcionalidades adicionais ou ajustes específicos na interface.
+Essas user stories cobrem os principais aspectos do formulário de inscrição de cursos, desde o preenchimento dos dados até a confirmação de sucesso. Se necessário, podemos criar mais user stories para cobrir funcionalidades adicionais ou ajustes específicos na interface.<br><br><br>
+
+
+
+> Acesse [aqui](https://docs.google.com/spreadsheets/d/1SNd5eN8Wpktlxtv4GJ0wv2ePU6KHm5JdQbAK0ScNyI4/edit?usp=sharing) a planilha que contem a documentação de todos os cenários e casos de teste.<br>
