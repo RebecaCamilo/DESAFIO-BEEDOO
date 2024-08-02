@@ -1,4 +1,4 @@
-# Desafio-testes-manuais-Beedoo
+# DESAFIO-BEEDOO
 
 ## User Stories
 **1. Cadastro Básico de Curso:**
